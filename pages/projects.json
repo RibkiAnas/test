@@ -1,7 +1,7 @@
 [
     {
         "banner": {
-            "style": "defaultStyles.banner",
+            "style": "top",
             "text": "projects page banner",
             "cta": [
                 {

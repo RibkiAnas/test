@@ -1,0 +1,15 @@
+[
+    {
+        "banner": {
+            "style": "defaultStyles.banner",
+            "text": "home page banner",
+            "cta": [
+                {
+                    "text": "home page cta",
+                    "href": "https://altisite.pages.dev/",
+                    "target": "_blank"
+                }
+            ]
+        }
+    }
+]
